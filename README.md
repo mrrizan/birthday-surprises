@@ -1,5 +1,5 @@
-[index.html](https://github.com/user-attachments/files/25162548/index.html)
-<!DOCTYPE html>
+(https://github.com/user-attachments/files/25162548/index.html)
+
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
