@@ -1,4 +1,3 @@
-(https://github.com/user-attachments/files/25162548/index.html)
 
 <html>
 <head>
@@ -17,7 +16,7 @@
         .active { opacity: 1; pointer-events: all; transform: translate(-50%, -50%) scale(1); }
 
         /* Clean Headings */
-        h1 { font-family: 'Montserrat', sans-serif; color: var(--primary); font-size: 26px; margin-bottom: 15px; letter-spacing: -0.5px; }
+        h1 { font-family: 'Montserrat', sans-s                            erif; color: var(--primary); font-size: 26px; margin-bottom: 15px; letter-spacing: -0.5px; }
         p { font-size: 15px; line-height: 1.6; font-weight: 400; color: #555; }
 
         .btn-group { margin-top: 25px; position: relative; height: 130px; width: 100%; }
@@ -105,7 +104,7 @@
         }
 
         function startTyping() {
-            const text = "To the woman who balances sweetness with incredible strength... ✨";
+            const text = "To the girl who balances sweetness with incredible strength... ✨";
             let i = 0;
             const el = document.getElementById('typewriter');
             el.innerHTML = "";
